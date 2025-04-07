@@ -42,7 +42,7 @@ This is a C++ implementation of the classic **Wordle** game with a graphical int
 - `FileSelector` – loads word lists from category files
 - `Entry` – struct that represents an item in a file
 
-![Class Diagram](./full_class_diagram.png)
+![Class Diagram]((https://github.com/LenaDzi1/wordle-game/blob/main/img/Wordle.gif))
 
 ---
 
