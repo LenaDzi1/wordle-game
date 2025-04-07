@@ -1,0 +1,10 @@
+castle
+friend
+jungle
+spring
+bright
+branch
+planet
+puzzle
+socket
+forest

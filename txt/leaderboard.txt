@@ -1,0 +1,7 @@
+Adam 300
+Brian 200
+Christian 100
+Player 220
+Newgame 350
+New 550
+Player 150
